@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="vonglan">
+    <category name="ReaLearn SY Controller Presets">
+      <reapack name="midiplus-x-mini-sy" type="data" desc="Midiplus X2 to X6 Mini --> SY">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/midiplus-x-mini-sy">https://github.com/vonglan/realearn-sy-presets/blob/c06ace1c6093f90e7d31f79e4ad35c4488b0d638/controller/midiplus-x-mini-sy.json</source>
+                <changelog><![CDATA[- Initial Version]]></changelog>
+            </version>
+        </reapack>
+    </category>
+    <category name="ReaLearn SY Main Presets">
+      <reapack name="sy-j-8" type="data" desc="SY --> TAL J-8">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/sy-j-8.json">https://github.com/vonglan/realearn-sy-presets/blob/c06ace1c6093f90e7d31f79e4ad35c4488b0d638/main/sy-j-8.json</source>
+            </version>
+        </reapack>
+    </category>
+    <metadata>
+        <link rel="website">https://github.com/vonglan/realearn-sy-presets</link>
+        <description>![CDATA[Presets for ReaLearn that map the control elements of Controllers (for example Behringer X-Touch Mini) or hardware synthesizers (for example Sequential OB-6) to Software Synthesizers like u-he RePro or TAL J-8.]]</description>
+    </metadata>
+</index>
