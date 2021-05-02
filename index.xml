@@ -7,6 +7,24 @@
                 <changelog><![CDATA[- URL corrected]]></changelog>
             </version>
         </reapack>
+       <reapack name="ob6-sy" type="data" desc="Sequential OB-6 --> SY">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/ob6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/ob6-sy.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+       <reapack name="prophet-6-sy" type="data" desc="Sequential Prophet-6 --> SY">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/prophet-6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/prophet-6-sy.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+       <reapack name="x-touch-mini-sy" type="data" desc="Behringer X-Touch Mini --> SY">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/x-touch-mini-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/x-touch-mini-sy.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
     </category>
     <category name="ReaLearn SY Main Presets">
       <reapack name="sy-j-8" type="data" desc="SY --> TAL J-8">
