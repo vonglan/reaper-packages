@@ -2,7 +2,7 @@
 <index version="1" name="vonglan">
     <category name="ReaLearn SY Controller Presets">
       <reapack name="midiplus-x-mini-sy" type="data" desc="Midiplus X2 to X6 Mini --> SY">
-            <version name="1.0" author="vonglan">
+            <version name="1.1" author="vonglan">
               <source file="helgoboss/realearn/presets/controller/midiplus-x-mini-sy">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/c06ace1c6093f90e7d31f79e4ad35c4488b0d638/controller/midiplus-x-mini-sy.json</source>
                 <changelog><![CDATA[- URL corrected]]></changelog>
             </version>
@@ -10,7 +10,7 @@
     </category>
     <category name="ReaLearn SY Main Presets">
       <reapack name="sy-j-8" type="data" desc="SY --> TAL J-8">
-            <version name="1.0" author="vonglan">
+            <version name="1.1" author="vonglan">
                 <source file="helgoboss/realearn/presets/main/sy-j-8.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/c06ace1c6093f90e7d31f79e4ad35c4488b0d638/main/sy-j-8.json</source>
                 <changelog><![CDATA[- URL corrected]]></changelog>
             </version>
