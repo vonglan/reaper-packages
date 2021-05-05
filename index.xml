@@ -24,6 +24,10 @@
               <source file="helgoboss/realearn/presets/controller/x-touch-mini-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/x-touch-mini-sy.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
+            <version name="1.1" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/x-touch-mini-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/3c13e04b5da76889a7471cb7e87c42f2c9993402/controller/x-touch-mini-sy.json</source>
+                <changelog><![CDATA[- Osc3 Pitch Reset 0.34 like the others]]></changelog>
+            </version>
         </reapack>
     </category>
     <category name="ReaLearn SY Main Presets">
@@ -60,6 +64,12 @@
         <reapack name="sy-repro-5" type="data" desc="SY --> u-he RePro-5">
             <version name="1.0" author="vonglan">
                 <source file="helgoboss/realearn/presets/main/sy-repro-5.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/main/sy-repro-5.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+        <reapack name="sy-diva" type="data" desc="SY --> u-he Diva">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/sy-diva.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/3c13e04b5da76889a7471cb7e87c42f2c9993402/main/sy-diva.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
         </reapack>
