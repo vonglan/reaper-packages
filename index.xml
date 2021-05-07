@@ -73,6 +73,12 @@
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
         </reapack>
+        <reapack name="sy-op-x-pro" type="data" desc="SY --> Sonicprojects OP-X Pro II">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/sy-op-x-pro.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/92a480da48fddcb588829f96666a9232742dae30/main/sy-op-x-pro.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
     </category>
     <metadata>
         <link rel="website">https://github.com/vonglan/realearn-sy-presets</link>
