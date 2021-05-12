@@ -30,6 +30,14 @@
             </version>
         </reapack>
     </category>
+    <category name="ReaLearn DX Controller Presets">
+      <reapack name="x-touch-mini-dx" type="data" desc="Behringer X-Touch Mini --> DX">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/x-touch-mini-dx.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/c352b06790b064803e7129c45573299b4e2ce9a5/controller/x-touch-mini-dx.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+    </category>
     <category name="ReaLearn SY Main Presets">
       <reapack name="sy-j-8" type="data" desc="SY --> TAL J-8">
             <version name="1.1" author="vonglan">
@@ -76,6 +84,14 @@
         <reapack name="sy-op-x-pro" type="data" desc="SY --> Sonicprojects OP-X Pro II">
             <version name="1.0" author="vonglan">
                 <source file="helgoboss/realearn/presets/main/sy-op-x-pro.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/92a480da48fddcb588829f96666a9232742dae30/main/sy-op-x-pro.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+    </category>
+    <category name="ReaLearn DX Main Presets">
+      <reapack name="dx-dexed" type="data" desc="DX --> Dexed">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/dx-dexed.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/6d26cf82405c0096eb7826b49240c4b1d3505ae1/main/dx-dexed.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
         </reapack>
