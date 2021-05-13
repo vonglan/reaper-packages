@@ -31,9 +31,21 @@
         </reapack>
     </category>
     <category name="ReaLearn DX Controller Presets">
-      <reapack name="x-touch-mini-dx" type="data" desc="Behringer X-Touch Mini --> DX">
+        <reapack name="x-touch-mini-dx" type="data" desc="Behringer X-Touch Mini --> DX">
             <version name="1.0" author="vonglan">
               <source file="helgoboss/realearn/presets/controller/x-touch-mini-dx.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/c352b06790b064803e7129c45573299b4e2ce9a5/controller/x-touch-mini-dx.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+        <reapack name="ob6-dx" type="data" desc="Sequential OB-6 --> DX">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/ob6-dx.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/e5a56f7e8b7d897fc60295d07baf03a53fcc9668/controller/ob6-dx.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+        <reapack name="prophet-6-dx" type="data" desc="Sequential Prophet-6 --> DX">
+            <version name="1.0" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/prophet-6-dx.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/e5a56f7e8b7d897fc60295d07baf03a53fcc9668/controller/prophet-6-dx.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
         </reapack>
@@ -93,6 +105,10 @@
             <version name="1.0" author="vonglan">
                 <source file="helgoboss/realearn/presets/main/dx-dexed.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/6d26cf82405c0096eb7826b49240c4b1d3505ae1/main/dx-dexed.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+            <version name="1.1" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/dx-dexed.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/49c5f36d1a4860e2ef0237ad5867dcd347dc2aca/main/dx-dexed.json</source>
+                <changelog><![CDATA[- Bugfix Algorithm parameter and other globals]]></changelog>
             </version>
         </reapack>
     </category>
