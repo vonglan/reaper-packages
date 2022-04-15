@@ -40,6 +40,10 @@
               <source file="helgoboss/realearn/presets/controller/x-touch-mini-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/3c13e04b5da76889a7471cb7e87c42f2c9993402/controller/x-touch-mini-sy.json</source>
                 <changelog><![CDATA[- Osc3 Pitch Reset 0.34 like the others]]></changelog>
             </version>
+            <version name="1.2" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/x-touch-mini-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/bbf46a9d01da6ad2b30395760594d052d586ca24/controller/x-touch-mini-sy.json</source>
+                <changelog><![CDATA[- Feedback bank select buttons]]></changelog>
+            </version>
         </reapack>
     </category>
     <category name="ReaLearn DX Controller Presets">
@@ -92,6 +96,10 @@
                 <source file="helgoboss/realearn/presets/main/sy-repro-1.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/main/sy-repro-1.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
+            <version name="1.1" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/sy-repro-1.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/90b1ca85ef5abb7dc6e4d8ec3a38cd4b6b6042dc/main/sy-repro-1.json</source>
+                <changelog><![CDATA[- Bugfix OscSync and AmpAttack]]></changelog>
+            </version>
         </reapack>
         <reapack name="sy-repro-5" type="data" desc="SY --> u-he RePro-5">
             <version name="1.0" author="vonglan">
@@ -108,6 +116,12 @@
         <reapack name="sy-op-x-pro" type="data" desc="SY --> Sonicprojects OP-X Pro II">
             <version name="1.0" author="vonglan">
                 <source file="helgoboss/realearn/presets/main/sy-op-x-pro.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/92a480da48fddcb588829f96666a9232742dae30/main/sy-op-x-pro.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
+        <reapack name="sy-monark" type="data" desc="SY --> NI Monark (in Reaktor)">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/sy-monark.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/90b1ca85ef5abb7dc6e4d8ec3a38cd4b6b6042dc/main/sy-hive.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
         </reapack>
