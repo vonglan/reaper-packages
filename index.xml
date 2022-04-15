@@ -16,11 +16,19 @@
               <source file="helgoboss/realearn/presets/controller/ob6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/ob6-sy.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
             </version>
+            <version name="1.1" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/ob6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/d8a579956cba9de6a57d4490a7a409c09e56cb9d/controller/ob6-sy.json</source>
+                <changelog><![CDATA[- Relative mode!!!]]></changelog>
+            </version>
         </reapack>
        <reapack name="prophet-6-sy" type="data" desc="Sequential Prophet-6 --> SY">
             <version name="1.0" author="vonglan">
               <source file="helgoboss/realearn/presets/controller/prophet-6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/ad52fb65853f20dd72cf68cf29b42c4c22752b36/controller/prophet-6-sy.json</source>
                 <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+            <version name="1.1" author="vonglan">
+              <source file="helgoboss/realearn/presets/controller/prophet-6-sy.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/d8a579956cba9de6a57d4490a7a409c09e56cb9d/controller/prophet-6-sy.json</source>
+                <changelog><![CDATA[- Relative mode!!!]]></changelog>
             </version>
         </reapack>
        <reapack name="x-touch-mini-sy" type="data" desc="Behringer X-Touch Mini --> SY">
