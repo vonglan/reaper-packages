@@ -137,6 +137,12 @@
                 <changelog><![CDATA[- Bugfix Algorithm parameter and other globals]]></changelog>
             </version>
         </reapack>
+      <reapack name="dx-ops7" type="data" desc="DX --> OPS7">
+            <version name="1.0" author="vonglan">
+                <source file="helgoboss/realearn/presets/main/dx-ops.json">https://raw.githubusercontent.com/vonglan/realearn-sy-presets/44994adc7e7c16a52d629ff7af04d5d8e03ccabf/main/dx-dexed.json</source>
+                <changelog><![CDATA[- Initial version]]></changelog>
+            </version>
+        </reapack>
     </category>
     <metadata>
         <link rel="website">https://github.com/vonglan/realearn-sy-presets</link>
